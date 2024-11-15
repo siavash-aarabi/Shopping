@@ -36,7 +36,7 @@ hr.soften {margin: 8px 0;background: #DDD;}
 .moreOptopm.carousel .item img{padding:2px; border:1px solid #ddd}
 .moreOptopm.carousel .item img:hover{ border:1px solid pink}
 .carousel .item > img {display:inline;}
-.moreOptopm{min-height:116px}
+.moreOptopm{min-height:116px} 
 #productDetail {margin-bottom:0}
 .tabWrapper{background:#fff; padding:14px; border:1px solid #ddd; border-top:0}
 #productView .btn-toolbar{padding-left:3px;}
